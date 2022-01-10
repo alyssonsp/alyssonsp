@@ -8,8 +8,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alyssonsp5@gmail.com)
 
 ![Alysson GitHub stats](https://github-readme-stats.vercel.app/api?username=alyssonsp&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssonsp)](https://github.com/alyssonsp/github-readme-stats)
 ## Tecnologias que estou estudando:
 
 <div style="display: inline block"><br/>
