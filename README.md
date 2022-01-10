@@ -9,6 +9,7 @@
 
 ![Alysson GitHub stats](https://github-readme-stats.vercel.app/api?username=alyssonsp&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssonsp)](https://github.com/alyssonsp/github-readme-stats)
 ## Tecnologias que estou estudando:
 
 <div style="display: inline block"><br/>
