@@ -2,7 +2,6 @@
 
 - 🖥️ Bacharel em Ciência da Computação.
 - 📚 Estudando Python.
-- 📘 Me especializando em Desenvolvimento WEB.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alysson-silva-pereira-024424151/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alyssonsp5@gmail.com)
